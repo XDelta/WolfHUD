@@ -271,6 +271,8 @@
 	"wolfhud_loot_screen_delay_desc" : "X 초 후에 다음화면 으로 넘어갑니다.\n(방장 전용, 0 = 비활성화)",
 	"wolfhud_replace_weapon_names_title" : "현실 무기 이름",
 	"wolfhud_replace_weapon_names_desc" : "무기 이름을 현실에 존재하는 무기 이름으로 바꿉니다.\n(맵을 바꿔야 적용됩니다...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "인벤토리 탭 이름 사용",
 	"wolfhud_inventory_tab_names_desc" : "인벤토리 탭 이름을 바꿉니다.\n(이름은 '/mods/saves/WolfHUD_InventoryNames.txt' 에서 바꿀 수 있습니다.)",
 	"wolfhud_inventory_names_title" : "인벤토리 이름 표시",

@@ -271,6 +271,8 @@
 	"wolfhud_loot_screen_delay_desc" : "Proceeds X seconds after you got your loot drop.\n(Host only, 0 = disabled)",
 	"wolfhud_replace_weapon_names_title" : "Real Weapon Names",
 	"wolfhud_replace_weapon_names_desc" : "Replace the Weapon Names with their Real-World counterparts.\n(A Map change is needed to apply...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "Use Inventory Tab Names",
 	"wolfhud_inventory_tab_names_desc" : "Customize your Inventory Tab Names.\n(Change names by editing '/mods/saves/WolfHUD_InventoryNames.txt')",
 	"wolfhud_inventory_names_title" : "Show Inventory Box Names",

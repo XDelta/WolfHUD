@@ -273,6 +273,8 @@
 	"wolfhud_loot_screen_delay_desc" : "Fahre X Sekunden, nachdem alle Beutekarten aufgedeckt wurde, fort.\n(Nur Host, 0 = Deaktiviert)",
 	"wolfhud_replace_weapon_names_title" : "Richtige Waffennamen",
 	"wolfhud_replace_weapon_names_desc" : "Ersetzt die erfundenen Waffennamen mit ihren realen Gegenstücken.\n(Wird erst beim Mapwechsel aktiv...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "Benutze Inventory Tab Namen",
 	"wolfhud_inventory_tab_names_desc" : "Ändere die Namen der Tabs des Inventars.\n(Änderung durch editieren von '/mods/saves/WolfHUD_InventoryNames.txt')",
 	"wolfhud_inventory_names_title" : "Zeige Inventar Box Namen",

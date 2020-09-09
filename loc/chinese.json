@@ -271,6 +271,8 @@
 	"wolfhud_loot_screen_delay_desc" : "获得一张卡牌后，推迟X秒结束。\n（仅主机，0 = 禁用）",
 	"wolfhud_replace_weapon_names_title" : "真实武器名字",
 	"wolfhud_replace_weapon_names_desc" : "更换武器名字，与真实武器的名称相同。\n（重新载入地图生效...）",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(需要重新载入使其生效...)",
 	"wolfhud_inventory_tab_names_title" : "使用库存标签名称",
 	"wolfhud_inventory_tab_names_desc" : "自定义您的库存标签名称。\n（通过编辑 '/mods/saves/WolfHUD_InventoryNames.txt' 自定义您的标签名称）",
 	"wolfhud_inventory_names_title" : "显示库存框名称",

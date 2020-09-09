@@ -271,6 +271,8 @@
 	"wolfhud_loot_screen_delay_desc" : "Continua em X segundos depois de pegar o seu loot drop.\n(Apenas o Host, 0 = desativado)",
 	"wolfhud_replace_weapon_names_title" : "Nomes reais das armas",
 	"wolfhud_replace_weapon_names_desc" : "Substitui os nomes das armas com seus nomes reais.\n(É necessária uma mudança de mapa para aplicar...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "Usar nomes nas abas de inventário",
 	"wolfhud_inventory_tab_names_desc" : "Customize os nomes nas abas de inventário.\n(Mude os nomes editando '/mods/saves/WolfHUD_InventoryNames.txt')",
 	"wolfhud_inventory_names_title" : "Mostrar os nomes das caixas de inventário",

@@ -271,6 +271,8 @@
 	"wolfhud_loot_screen_delay_desc" : "Procede X segundos después de que hayas la recibido tarjeta.\n(Solo Host, 0 = desactivado)",
 	"wolfhud_replace_weapon_names_title" : "Nombres reales de armas",
 	"wolfhud_replace_weapon_names_desc" : "Reemplaza los nombres de la armas con sus contrapartes del Mundo Real.\n(Un cambio de mapa es requerido para aplicar...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "Usar nombres en pestañas del inventario",
 	"wolfhud_inventory_tab_names_desc" : "Personaliza los nombres de las pestañas de tu inventario.\n(Cambia los nombres editando '/mods/saves/WolfHUD_InventoryNames.txt')",
 	"wolfhud_inventory_names_title" : "Mostrar nombre de objeto en inventario",

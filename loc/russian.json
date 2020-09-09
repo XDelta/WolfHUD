@@ -271,6 +271,8 @@
 	"wolfhud_loot_screen_delay_desc" : "Задержка X секунд после того как вы получите добычу.\n(Только хост, 0 = выключено)",
 	"wolfhud_replace_weapon_names_title" : "Настоящие названия оружия",
 	"wolfhud_replace_weapon_names_desc" : "Замена названий оружий на настоящие.\n(Необходимо сменить карту для принятия изменений...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "Исп. названия вкладок в инвентаре",
 	"wolfhud_inventory_tab_names_desc" : "Настройте ваши имена вкладок в инвентаре.\n(Отредактируйте в '/mods/saves/WolfHUD_InventoryNames.txt')",
 	"wolfhud_inventory_names_title" : "Показать названия ячеек инвентаря",

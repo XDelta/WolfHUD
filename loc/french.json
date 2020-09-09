@@ -270,6 +270,8 @@
 	"wolfhud_loot_screen_delay_desc" : "Attends X secondes avant que vous ayez votre récompense.\n(Uniquement pour l'hôte, 0 = désactivé)",
 	"wolfhud_replace_weapon_names_title" : "Utiliser Real Weapon Names",
 	"wolfhud_replace_weapon_names_desc" : "Remplace le nom des armes par leur équivalent dans la réalité.\n(Changez de map pour que les changements s'effectuent...)",
+	"wolfhud_replace_both_names_title" : "Both Weapon Names",
+	"wolfhud_replace_both_names_desc" : "Show both Real-World and In-Game weapon names\n(A Map change is needed to apply...)",
 	"wolfhud_inventory_tab_names_title" : "Utiliser Inventory Tab Names",
 	"wolfhud_inventory_tab_names_desc" : "Personnalisez vos onglets d'inventaire.\n(Changer les noms en modfiant le fichier '/mods/saves/WolfHUD_InventoryNames.txt')",
 	"wolfhud_inventory_names_title" : "Noms d'emplacement",
