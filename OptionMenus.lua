@@ -3873,6 +3873,16 @@ if WolfHUD then
 					},
 					{
 						type = "toggle",
+						name_id = "wolfhud_replace_both_names_title",
+						desc_id = "wolfhud_replace_both_names_desc",
+						value = {"INVENTORY", "USE_BOTH_WEAPON_NAMES"},
+						visible_reqs = {},
+						enabled_reqs = {
+							{ setting = {"INVENTORY", "USE_REAL_WEAPON_NAMES"}, invert = false },
+						},
+					},
+					{
+						type = "toggle",
 						name_id = "wolfhud_inventory_names_title",
 						desc_id = "wolfhud_inventory_names_desc",
 						value = {"INVENTORY", "SHOW_WEAPON_NAMES"},

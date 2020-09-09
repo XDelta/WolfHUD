@@ -50,10 +50,10 @@
 	"bm_w_x_baka" 				: "Akimbo IMI Micro Uzi",
 	"bm_w_x_2006m" 				: "Akimbo Mateba 2006M",
 
-	"bm_w_gre_m79" 				: "SA M79 Grenade Launcher",
-	"bm_w_saw" 				: "OVE9000",
+	"bm_w_gre_m79" 				: "M79 Grenade Launcher",
+	"bm_w_saw" 				: "OVE9000 Saw",
 	"bm_w_m134" 				: "M134 Minigun",
-	"bm_w_m32" 				: "MGL Mk 1S",
+	"bm_w_m32" 				: "M32 MGL",
 	"bm_w_flamethrower_mk2" 		: "Flamethrower",
 	"bm_w_plainsrider" 			: "Plainsrider Bow",
 	"bm_w_elastic" 				: "Compound Bow",
