@@ -450,6 +450,7 @@ if not _G.WolfHUD then
 				SHOW_WEAPON_NAMES 						= true,
 				SHOW_WEAPON_MINI_ICONS 					= true,
 				USE_REAL_WEAPON_NAMES 					= true,
+				USE_BOTH_WEAPON_NAMES 					= false,
 				SHOW_SKILL_NAMES 						= true,
 				SHOW_CONTRACTOR_JOB_HEAT				= true,
 				CUSTOM_TAB_NAMES = {
@@ -1328,7 +1329,11 @@ if not _G.WolfHUD then
 			loc:load_localization_file(string.format("%s/english.json", loc_path), false)
 
 			if WolfHUD:getSetting({"INVENTORY", "USE_REAL_WEAPON_NAMES"}, false) then
-				loc:load_localization_file(string.format("%s/RealWeaponNames.json", loc_path))
+				if WolfHUD:getSetting({"INVENTORY", "USE_BOTH_WEAPON_NAMES"}, false) then
+					loc:load_localization_file(string.format("%s/BothWeaponNames.json", loc_path))
+				else
+					loc:load_localization_file(string.format("%s/RealWeaponNames.json", loc_path))
+				end
 			end
 		else
 			WolfHUD:print_log("Localization folder seems to be missing!", "error")
